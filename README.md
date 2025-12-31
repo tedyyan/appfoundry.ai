@@ -4,9 +4,17 @@ An open-source platform for building, extending, and shipping AI-powered mobile 
 
 This project is designed to help developers turn ideas into real, shipped apps without worrying about infrastructure, app store reviews, or deployment complexity.
 
-The platform is **open source (Apache-2.0)** and community-driven, while the core infrastructure and app store publishing are maintained by the project maintainer.
+The platform is open source (Apache-2.0) and community-driven, with the project maintainer handling core infrastructure and app store publishing.
+
+I will try my best to ship the app every month. You build the AI idea. We ship it and make it app-store-ready.
 
 ---
+
+## 🔁 Contribution → Release Flow
+
+```
+Idea → Fork → Open AI IDE such as cursor to make it become code → submit Merge request → Monthly App Release -> Publish to App Store
+```
 
 ## 🌟 Vision
 
@@ -80,11 +88,6 @@ Exact implementations may evolve as the platform grows.
 
 ---
 
-## 🔁 Contribution → Release Flow
-
-```
-Idea → Issue → PR → Review → Merge → Monthly App Release
-```
 
 Accepted contributions:
 - Are shipped to real users
