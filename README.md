@@ -49,7 +49,6 @@ This is the sample feature in the project.
 
 Watch the SnapFindMy feature in action:
 
-👉 View Demo Video
 https://github.com/user-attachments/assets/38a20a35-2f89-4fa2-9fb7-363fcab9f340
 
 
