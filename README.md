@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/38a20a35-2f89-4fa2-9fb7-363fcab9f340
 # 🚀 Open AI App Platform
 
 An open-source platform for building, extending, and shipping AI-powered mobile apps **fast**.
@@ -48,7 +50,8 @@ This is the sample feature in the project.
 
 Watch the SnapFindMy feature in action:
 
-👉 [View Demo Video](docs/snapfindmy_introduce.mov)
+👉 [View Demo Video](
+https://github.com/user-attachments/assets/b31ce37e-9db0-4db0-9227-2f767527c220)
 
 *For inline video playback on GitHub, consider uploading the video as a release asset and linking to it, or converting it to a GIF format.*
 
