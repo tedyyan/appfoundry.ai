@@ -8,6 +8,14 @@ The platform is open source (Apache-2.0) and community-driven, with the project 
 
 I will try my best to ship the app every month. You build the AI idea. We ship it and make it app-store-ready.
 
+## 📹 Demo Video
+
+Watch the SnapFindMy feature in action:
+
+👉 [View Demo Video](docs/snapfindmy_introduce.mov)
+
+*For inline video playback on GitHub, consider uploading the video as a release asset and linking to it, or converting it to a GIF format.*
+
 ---
 
 ## 🔁 Contribution → Release Flow
