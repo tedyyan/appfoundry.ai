@@ -1,0 +1,70 @@
+{
+  "expo": {
+    "name": "SnapFindMy",
+    "slug": "snapfind",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2196F3"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app needs access to camera to capture images of objects for AI recognition.",
+        "NSPhotoLibraryUsageDescription": "This app needs access to photo library to save captured images.",
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "bundleIdentifier": "cybersky.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2196F3"
+      },
+      "edgeToEdgeEnabled": true,
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "package": "com.cybersky.snapfindmy",
+      "softwareKeyboardLayoutMode": "pan",
+      "allowBackup": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow SnapFindMy to access your camera to capture images of objects."
+        }
+      ],
+
+    ],
+    "description": "AI-powered object recognition and retrieval mobile app. Capture images of objects and find them later using text search.",
+    "extra": {
+      "eas": {
+        "projectId": "ec85302e-69d1-4e9e-9f63-f269b07d1df5"
+      }
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/ec85302e-69d1-4e9e-9f63-f269b07d1df5"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
