@@ -8,7 +8,43 @@ The platform is open source (Apache-2.0) and community-driven, with the project 
 
 I will try my best to ship the app every month. You build the AI idea. We ship it and make it app-store-ready.
 
+## 📱 Live App (Example Feature)
+
+This open-source platform already powers a production app shipped to real users.
+
+**Example implementation:** *SnapFindMy*  
+A smart visual memory assistant built on this platform.
+
+- 🍎 **App Store**  
+  https://apps.apple.com/us/app/snapfindmy/id6748143494
+
+- 🤖 **Google Play**  
+  https://play.google.com/store/apps/details?id=com.cybersky.snapfindmy
+
+This app demonstrates how ideas built on this platform can move from concept to **App Store & Google Play** with minimal friction.  
+It is only one example—contributors are encouraged to build and ship their own features.
+
+
+
+---
+
+## 🔁 Contribution → Release Flow
+
+| Step | What You Do | What Happens |
+|-----:|-------------|--------------|
+| 1 | 💡 Propose an idea | Open an issue or start directly from a fork |
+| 2 | 🍴 Fork the repo | Create your own copy of the project |
+| 3 | 🧠 Build with AI IDE | Use tools like Cursor to turn the idea into code |
+| 4 | 🔀 Submit a PR | Open a pull request (merge request) |
+| 5 | 👀 Review & approval | Maintainer reviews and approves |
+| 6 | 🚀 Monthly release | Feature is included in the next app release |
+| 7 | 📱 App store publish | App is shipped to App Store & Google Play |
+
+
+
+
 ## 📹 Demo Video
+This is the sample feature in the project.
 
 Watch the SnapFindMy feature in action:
 
@@ -16,13 +52,6 @@ Watch the SnapFindMy feature in action:
 
 *For inline video playback on GitHub, consider uploading the video as a release asset and linking to it, or converting it to a GIF format.*
 
----
-
-## 🔁 Contribution → Release Flow
-
-```
-Idea → Fork → Open AI IDE such as cursor to make it become code → submit Merge request → Monthly App Release -> Publish to App Store
-```
 
 ## 🌟 Vision
 
